@@ -1,0 +1,13 @@
+sensor,label_description
+AN1,Main bearing radial
+AN2,Main bearing axial
+AN3,Ring gear radial 6 o’clock
+AN4,Ring gear radial 12 o’clock
+AN5,LSS radial
+AN6,ISS radial
+AN7,HSS radial
+AN8,HSS upwind bearing radial
+AN9,HSS downwind bearing radial
+AN10,Carrier downwind radial
+AN11,Generator drive end radial
+AN12,Generator non-drive end axial
